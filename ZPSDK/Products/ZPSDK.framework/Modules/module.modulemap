@@ -1,0 +1,6 @@
+framework module ZPSDK {
+  umbrella header "ZPSDK.h"
+
+  export *
+  module * { export * }
+}
