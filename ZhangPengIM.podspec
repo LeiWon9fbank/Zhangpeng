@@ -89,7 +89,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "ZPSDK/ZPSDK/**/*.{h,m}"
+  spec.source_files  = "ZPSDK/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
   spec.frameworks = 'UIKit',"Foundation"
 
