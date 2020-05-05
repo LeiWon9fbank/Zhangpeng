@@ -121,7 +121,7 @@ Pod::Spec.new do |spec|
   # spec.frameworks = "SomeFramework", "AnotherFramework"
 
   #依赖第三方框架
-  spec.dependency 'AFNetworking'
+  #spec.dependency 'AFNetworking'
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
