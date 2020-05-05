@@ -90,7 +90,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "ZPSDK/**/*.{h,m}"
+#spec.source_files  = "ZPSDK/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
@@ -115,6 +115,8 @@ Pod::Spec.new do |spec|
   #  Link your library with frameworks, or libraries. Libraries do not include
   #  the lib prefix of their name.
   #
+
+  spec.vendored_frameworks = 'ZPSDK.framework'
 
   spec.frameworks = 'UIKit',"Foundation"
   # spec.framework  = "SomeFramework"
