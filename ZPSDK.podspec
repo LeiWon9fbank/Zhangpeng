@@ -116,7 +116,7 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
-  spec.vendored_frameworks = 'ZPSDK.framework'
+  spec.vendored_frameworks = 'Framework/ZPSDK.framework'
 
   spec.frameworks = 'UIKit',"Foundation"
   # spec.framework  = "SomeFramework"
