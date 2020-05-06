@@ -8,6 +8,10 @@
 		<data>
 		cJuZbVYHkz04wN1uyvDFmphkJyE=
 		</data>
+		<key>Headers/ZPAuthRespones.h</key>
+		<data>
+		4EkpYiyCZVeRTvcsIYvuTKteBcs=
+		</data>
 		<key>Headers/ZPAuthReuest.h</key>
 		<data>
 		15MtGpzFptS18gCjat2/Kc42V1M=
@@ -22,7 +26,7 @@
 		</data>
 		<key>Headers/ZPSDK.h</key>
 		<data>
-		bzYsXqulAos2Xzwo0flOmzSvkkI=
+		zZA6V3BmH562KKutTX+dcd7ja6k=
 		</data>
 		<key>Headers/ZPShareRequest.h</key>
 		<data>
@@ -30,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EppID4vXrV6PzsuZJiI55XQ9M6A=
+		AeBsCGHWc81JJMxnBgyGRY2kaVg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -48,6 +52,17 @@
 			<key>hash2</key>
 			<data>
 			LYf4u8HuiDy7znWETSKnKPlGVF7ZgZpHPmD29RZUERs=
+			</data>
+		</dict>
+		<key>Headers/ZPAuthRespones.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4EkpYiyCZVeRTvcsIYvuTKteBcs=
+			</data>
+			<key>hash2</key>
+			<data>
+			94vvC20PsehwaXlIe0ECqzOaB04EJ4CyOnjKQRi0SZc=
 			</data>
 		</dict>
 		<key>Headers/ZPAuthReuest.h</key>
@@ -87,11 +102,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bzYsXqulAos2Xzwo0flOmzSvkkI=
+			zZA6V3BmH562KKutTX+dcd7ja6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			pjMZJa3oULBAUuLD9eck+jgXdjCR6E/BXE/LOzwLH+Y=
+			5bK+94em+O0QyT4V2iXpH+pvIv9ty2OI56GfKWA3dpo=
 			</data>
 		</dict>
 		<key>Headers/ZPShareRequest.h</key>
