@@ -8,12 +8,6 @@
 
 Pod::Spec.new do |spec|
 
-  # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  #
-  #  These will help people to find your library, and whilst it
-  #  can feel like a chore to fill in it's definitely to your advantage. The
-  #  summary should be tweet-length, and the description more in depth.
-  #
 
   spec.name         = "ZPSDK"
   spec.version      = "0.0.1"
@@ -29,18 +23,8 @@ Pod::Spec.new do |spec|
   spec.author             = { "zhangpeng" => "522623697@qq.com" }
 
 
-  # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  #
-  #  Specify the location from where the source should be retrieved.
-  #  Supports git, hg, bzr, svn and HTTP.
-  #
-
   spec.source       = { :git => "https://github.com/LeiWon9fbank/Zhangpeng.git", :tag => "#{spec.version}" }
 
-
-
-
- 
   spec.vendored_frameworks = 'ZPSDK.framework'
   spec.frameworks = "Foundation"
 
