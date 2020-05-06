@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/LeiWon9fbank/Zhangpeng.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/LeiWon9fbank/Zhangpeng/tree/master/Frameworks", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -117,7 +117,6 @@ Pod::Spec.new do |spec|
   #
 
   spec.vendored_frameworks = 'Frameworks/ZPSDK.framework'
-
   spec.frameworks = 'UIKit',"Foundation"
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
