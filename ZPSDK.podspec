@@ -30,9 +30,9 @@ Pod::Spec.new do |spec|
 
 
   #依赖第三方框架
-  spec.dependency 'AFNetworking','~>3.2.1'
-  spec.dependency 'YYModel'
-  spec.dependency 'Toast'
+  #spec.dependency 'AFNetworking','~>3.2.1'
+  #spec.dependency 'YYModel'
+  #spec.dependency 'Toast'
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
