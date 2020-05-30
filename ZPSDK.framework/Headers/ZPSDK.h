@@ -23,5 +23,8 @@ FOUNDATION_EXPORT const unsigned char ZPSDKVersionString[];
 #import <ZPSDK/ZPBaseRespones.h>
 
 #import <ZPSDK/ZPAuthRespones.h>
-
+#import <ZPSDK/ZPShareMessage.h>
+#import <ZPSDK/ZPShareImageData.h>
+#import <ZPSDK/ZPShareCompound.h>
+#import <ZPSDK/ZPShareCompoundData.h>
 

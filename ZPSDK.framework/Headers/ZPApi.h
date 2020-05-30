@@ -30,7 +30,7 @@ NS_ASSUME_NONNULL_BEGIN
  * @param universalLink 微信开发者Universal Link
  * @return 成功返回YES，失败返回NO。
  */
-+ (BOOL)registerApp:(NSString *)appid universalLink:(NSString *)universalLink;
++ (BOOL)registerApp:(NSString *)appid withAppSecret:(NSString *)appSecret universalLink:(NSString *)universalLink;
 
 /*! @brief 处理旧版微信通过URL启动App时传递的数据
  *
@@ -56,7 +56,7 @@ NS_ASSUME_NONNULL_BEGIN
  *
  * @return 微信已安装返回YES，未安装返回NO。
  */
-+ (BOOL)isWXAppInstalled;
++ (BOOL)isZPAppInstalled;
 
 
 

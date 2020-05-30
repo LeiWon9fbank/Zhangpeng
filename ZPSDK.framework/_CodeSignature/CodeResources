@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ZPApi.h</key>
 		<data>
-		cJuZbVYHkz04wN1uyvDFmphkJyE=
+		47CjYUSky/HehcE59FdKK2n5gb8=
 		</data>
 		<key>Headers/ZPAuthRespones.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/ZPAuthReuest.h</key>
 		<data>
-		15MtGpzFptS18gCjat2/Kc42V1M=
+		LsHK+MpBB0KntbbwTstu2lCpnFw=
 		</data>
 		<key>Headers/ZPBaseRequest.h</key>
 		<data>
-		l9A0YrzUNpWL1x6Pv7PXBHFM33c=
+		eTTsDEDflsiP0NZ9WsahVhnOaZI=
 		</data>
 		<key>Headers/ZPBaseRespones.h</key>
 		<data>
@@ -26,7 +26,23 @@
 		</data>
 		<key>Headers/ZPSDK.h</key>
 		<data>
-		zZA6V3BmH562KKutTX+dcd7ja6k=
+		/oFGoXCcEV1xR/eqFZGf2IruiUY=
+		</data>
+		<key>Headers/ZPShareCompound.h</key>
+		<data>
+		O3CUUAWuG7IjsZRWmYSN9k0Lbyo=
+		</data>
+		<key>Headers/ZPShareCompoundData.h</key>
+		<data>
+		ylRHyWuLE8cuQ9DkPqui21Qpe0c=
+		</data>
+		<key>Headers/ZPShareImageData.h</key>
+		<data>
+		BqDLyzzZ4TovMHJ4Cv5TfYvdNmo=
+		</data>
+		<key>Headers/ZPShareMessage.h</key>
+		<data>
+		TmBC9ggrw0F68KolZgGFZEGqV48=
 		</data>
 		<key>Headers/ZPShareRequest.h</key>
 		<data>
@@ -34,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AeBsCGHWc81JJMxnBgyGRY2kaVg=
+		hHXmTn/kQeqUGUGBsWUbksa8iTQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cJuZbVYHkz04wN1uyvDFmphkJyE=
+			47CjYUSky/HehcE59FdKK2n5gb8=
 			</data>
 			<key>hash2</key>
 			<data>
-			LYf4u8HuiDy7znWETSKnKPlGVF7ZgZpHPmD29RZUERs=
+			4Dgc6yoLa2V6JylgYkO281JF6jnGdPIdXddQ9qyFYnY=
 			</data>
 		</dict>
 		<key>Headers/ZPAuthRespones.h</key>
@@ -69,22 +85,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			15MtGpzFptS18gCjat2/Kc42V1M=
+			LsHK+MpBB0KntbbwTstu2lCpnFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			kaC6iIh0UCnIn1iD0uFv61rIxLq85sIQmq8uIsRZfyc=
+			Do6i75jy2i7mVBrzbERug4nduYEoIuacCQc00yB/rwQ=
 			</data>
 		</dict>
 		<key>Headers/ZPBaseRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l9A0YrzUNpWL1x6Pv7PXBHFM33c=
+			eTTsDEDflsiP0NZ9WsahVhnOaZI=
 			</data>
 			<key>hash2</key>
 			<data>
-			38LszpK8WMCxVy27I951QjGZeC77Pjw5HgDYGa94iY0=
+			gVsr6wALKDVgSwBHV7+8UP6CrsMZFIx3d0rmUrh1Iwg=
 			</data>
 		</dict>
 		<key>Headers/ZPBaseRespones.h</key>
@@ -102,11 +118,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zZA6V3BmH562KKutTX+dcd7ja6k=
+			/oFGoXCcEV1xR/eqFZGf2IruiUY=
 			</data>
 			<key>hash2</key>
 			<data>
-			5bK+94em+O0QyT4V2iXpH+pvIv9ty2OI56GfKWA3dpo=
+			MmzgJSRUaCIGlqfV3quKtR9TOm+yreT92pkXMIgZrjw=
+			</data>
+		</dict>
+		<key>Headers/ZPShareCompound.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O3CUUAWuG7IjsZRWmYSN9k0Lbyo=
+			</data>
+			<key>hash2</key>
+			<data>
+			NsZv1nYleKpH7mhnhdeCiFHXIFGT6Sb0Hq7UfAQHo4E=
+			</data>
+		</dict>
+		<key>Headers/ZPShareCompoundData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ylRHyWuLE8cuQ9DkPqui21Qpe0c=
+			</data>
+			<key>hash2</key>
+			<data>
+			agE+C0/Z7ZW6/6Fz+S1ahzy6pe0+issPm3Sc7bPnOdg=
+			</data>
+		</dict>
+		<key>Headers/ZPShareImageData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BqDLyzzZ4TovMHJ4Cv5TfYvdNmo=
+			</data>
+			<key>hash2</key>
+			<data>
+			cs8O73hdqySCpFCXOQ75GddSlvy8Y9khtDdcXDp0e0E=
+			</data>
+		</dict>
+		<key>Headers/ZPShareMessage.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TmBC9ggrw0F68KolZgGFZEGqV48=
+			</data>
+			<key>hash2</key>
+			<data>
+			8Uf0r7bpg2jSKRqAnaDv6o1RXio4qpbBBTkeKovCav0=
 			</data>
 		</dict>
 		<key>Headers/ZPShareRequest.h</key>
