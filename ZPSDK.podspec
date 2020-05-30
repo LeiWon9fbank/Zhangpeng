@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "ZPSDK"
-  spec.version      = "0.1.0"
+  spec.version      = "0.1.2"
   spec.summary      = "A short description of ZPSDK."
 
   spec.description  = "zhangpengSDK"
@@ -30,7 +30,10 @@ Pod::Spec.new do |spec|
 
 
   #依赖第三方框架
-  #spec.dependency 'AFNetworking'
+  spec.dependency 'AFNetworking',"~>3.2.1"
+  spec.dependency 'YYModel'
+  spec.dependency 'Toast'
+
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
