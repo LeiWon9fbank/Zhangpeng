@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "ZPSDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.2.1"
   spec.summary      = "A short description of ZPSDK."
 
   spec.description  = "zhangpengSDK"
